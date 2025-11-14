@@ -68,7 +68,7 @@ class ApiConfig {
 }
 ```
 
-> ⚠️ **ÖNEMLİ:** Backend API URL'nizi buraya ekleyin. Kendi backend'inizi deploy etmek için [backend repo](https://github.com/emrecan_nt/siu-asistan-backend)'ya bakın.
+> ⚠️ **ÖNEMLİ:** Backend API URL'nizi buraya ekleyin. Kendi backend'inizi deploy etmek için [siu-asistan-backend](https://github.com/emrecan-nt/siu-asistan-backend.git)'ya bakın.
 
 ### 4. Uygulamayı Çalıştırın
 
